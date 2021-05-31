@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Week 5 Lesvoorbeeld</string>
+    <string name="btn_next">Next</string>
+    <string name="btn_settings">Settings</string>
+</resources>
