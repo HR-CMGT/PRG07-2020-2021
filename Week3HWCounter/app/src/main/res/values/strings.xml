@@ -2,4 +2,7 @@
     <string name="app_name">Week 3 HW Counter</string>
     <string name="btn_count">Count</string>
     <string name="btn_reset">Reset</string>
+    <string name="btn_restore">Restore</string>
+    <string name="btn_save">Save</string>
+    <string name="btn_settings">Settings</string>
 </resources>
