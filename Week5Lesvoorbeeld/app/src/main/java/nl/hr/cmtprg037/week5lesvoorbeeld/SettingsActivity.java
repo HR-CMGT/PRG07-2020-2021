@@ -45,7 +45,7 @@ public class SettingsActivity extends PreferenceActivity implements SharedPrefer
     // implement callback for change
     @Override
     public void onSharedPreferenceChanged(SharedPreferences sharedPreferences, String pref_key) {
-        Log.d(MainActivity.LOG_TAG, "Preferences are changes");
+        Log.d(MainActivity.LOG_TAG, "A preference has changed");
         Toast t = Toast.makeText(this, "Pref changed: " + pref_key, Toast.LENGTH_SHORT);
         t.show();
     }
